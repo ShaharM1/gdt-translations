@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-03-02 05:26+0000\n"
-"Last-Translator: almog l <almoglavi1@gmail.com>\n"
+"Last-Translator: Shahar.M <TheisraelGaming@gmail.com>\n"
 "Language-Team: Hebrew <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/he/>\n"
 "Language: he\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #. achievement title
 msgid "Good Judgement"
-msgstr "החלטה טובה"
+msgstr "שיקול טוב"
 
 #. achievement title
 msgid "Cult Status"
@@ -23,7 +23,7 @@ msgstr "מעמד פולחן"
 
 #. achievement
 msgid "Set a new standard for the early gaming industry."
-msgstr "קבע סטנדרט חדש בתעשיית המשחקים המתחילה את דרכה."
+msgstr ".הגדר סטנדרט חדש עבור תעשיית המשחקים המוקדמים"
 
 #. achievement title
 msgid "100K Engine"
@@ -31,23 +31,23 @@ msgstr "מנוע בשווי 100 אלף"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "השקע יותר מ-100 אלף במנוע משחק חדש."
+msgstr ".השקעה במעל 100 אלף במנוע משחק חדש"
 
 #. achievement title
 msgid "500K Engine"
-msgstr "מנוע 500 אלף"
+msgstr "מנוע בשווי 500 אלף"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
-msgstr "השקע יותר מ-500 אלף במנוע משחק חדש."
+msgstr ".השקעה במעל 500 אלף במנוע משחק חדש"
 
 #. achievement title
 msgid "1M Engine"
-msgstr "מנוע המליון"
+msgstr "מנוע בשווי מיליון"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
-msgstr "השקע יותר ממליון במנוע משחק חדש."
+msgstr ".השקעה במעל ממליון במנוע משחק חדש"
 
 #. achievement title
 msgid "Gold"
@@ -55,7 +55,7 @@ msgstr "זהב"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr "מכור חצי מליון עותקים של משחק ללא עזרה של מפיצה."
+msgstr ".תמכור חצי מיליון עותקים של משחק ללא עזרת מפיצה"
 
 #. achievement title
 msgid "Platinum"
@@ -63,7 +63,7 @@ msgstr "פלטינה"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr "מכור מיליון עותקים של משחק ללא עזרה של מפיצה."
+msgstr ".תמכור מיליון עותקים של משחק ללא עזרת מפיצה"
 
 #. achievement title
 msgid "Diamond"
@@ -71,15 +71,15 @@ msgstr "יהלום"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr "למכור עשרה מיליון עותקים של משחק ללא עזרה של מפיצה."
+msgstr ".תמכור 10 מיליון עותקים של משחק ללא עזרת מפיצה"
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
-msgstr "נדיריום (ברצינות?)"
+msgstr "(?נדיריום (ברצינות"
 
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
-msgstr "מכור מאה מיליון עותקים ללא עזרה של מפיצה."
+msgstr ".תמכור 100 מיליון עותקים של משחק ללא עזרת מפיצה"
 
 #. achievement title
 msgid "Professional"
@@ -87,23 +87,23 @@ msgstr "מקצוען"
 
 #. achievement
 msgid "Reach level 5 with a character."
-msgstr "להגיע עם דמות לרמה 5."
+msgstr ".תגיע לרמה 5 עם דמותך"
 
 #. achievement title
 msgid "Legend"
-msgstr "מקרא"
+msgstr "אגדה"
 
 #. achievement
 msgid "Reach level 10 with a character."
-msgstr "להגיע לרמה 10 עם דמות."
+msgstr ".תגיע לרמה 10 עם דמותך"
 
 #. achievement title
 msgid "Diversity"
-msgstr "מגוון"
+msgstr "גיוון"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr "העסק עובד ועובדת."
+msgstr ".תעסיק גם זכר וגם נקבה בצוות שלך"
 
 #. achievement title
 msgid "Famous"
@@ -111,22 +111,22 @@ msgstr "מפורסם"
 
 #. achievement
 msgid "Hire someone famous."
-msgstr "העסק מישהו מפורסם."
+msgstr ".תעסיק מישהו מפורסם"
 
 #. achievement title
 msgid "Full House"
-msgstr "פול האוס"
+msgstr "משרד מלא"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr "החזק מספר מקסימלי של עובדים."
+msgstr ".תעסיק עובדים לפי המספר המרבי"
 
 msgid "Game Dev Tycoon"
 msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr "סיים את Game Dev Tycoon."
+msgstr ".Game Dev Tycoon סיימת את המשחק"
 
 #. achievement title
 msgid "Perfect Game"
@@ -134,7 +134,7 @@ msgstr "משחק מושלם"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr "שחרר משחק עם ציון סופי של 10."
+msgstr ".תוציא לאור משחק עם ציון 10 בלבד"
 
 #. achievement title
 msgid "Detective"
@@ -142,7 +142,7 @@ msgstr "בלש"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr "מצא לפחות אחד מסודות המשחק."
+msgstr ".תמצא לפחות אחד מההסודות במשחק"
 
 #. achievement title
 msgid "Treasure Hunter"
@@ -150,15 +150,15 @@ msgstr "צייד אוצרות"
 
 #. achievement
 msgid "Activate the hidden treasure in the garage."
-msgstr "הפעל את האוצר החבוי במוסך."
+msgstr ".הפעל את האוצר החבוי במוסך"
 
 #. achievement refers to Wing Commander, leave 'Bluehair'
 msgid "Bluehair reporting for space duty"
-msgstr "Bluehair מדווח למשמרת החלל"
+msgstr ".מדווחת למשמר החלל Bluehair"
 
 #. achievement refers to Wing Commander
 msgid "Little known fact: Cats go all aggro in space."
-msgstr "עובדה לא מוכרת: חתולים הופכים לתוקפניים בחלל."
+msgstr ".עובדה לא מוכרת: חתולים נהפכים תוקפניים בחלל"
 
 #. achievement title, refers to Doom
 msgid "Welcome to Mars"
@@ -166,15 +166,15 @@ msgstr "ברוכים הבאים למאדים"
 
 #. achievement refers to Doom
 msgid "How did I get here? Why is there a chainsaw? Who cares!"
-msgstr "איך הגעתי לפה? למה יש לי מסור חשמלי? למי אכפת!"
+msgstr "!איך הגעתי לפה? למה יש לי מסור? למי אכפת"
 
 #. achievement title, referes to half life
 msgid "Best ride to work ever"
-msgstr "הנסיעה הכי טובה לעבודה בעולם"
+msgstr "הנסיעה הכי טובה לעבודה"
 
 #. achievement referes to half life
 msgid "Workplace safety anyone?"
-msgstr "בטיחות בעבודה מישהו?"
+msgstr "?בטיחות במקום העבודה מישהו"
 
 #. achievement title, refers to Theme Hospital
 msgid "Welcome to your hospital"
@@ -182,7 +182,7 @@ msgstr "ברוכים הבאים לבית החולים שלך"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr "החולים מתבקשים לא למות במסדרונות."
+msgstr ".המטופלים מתבקשים לא למות במסדרונות"
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
@@ -190,42 +190,42 @@ msgstr "ברוך הבא המפקד"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
-msgstr "העולם הזה הוא עגול אך שונה."
+msgstr ".העולם הזה הוא עגול אך שונה"
 
 #. achievement title, refers to Star Citizen
 msgid "The sky is not the limit."
-msgstr "השמיים הם לא הגבול."
+msgstr ".השמיים הם לא הגבול"
 
 #. achievement refers to Chris Roberts
 msgid "Welcome back Chris. We've missed you."
-msgstr "ברוך השב כריס. התגעגענו אליך."
+msgstr ".ברוך שובך כריס. התגעגענו אליך"
 
 #. achievement title, refers to Okami
 msgid "Painting with nature."
-msgstr "לצייר עם הטבע."
+msgstr ".לצייר עם הטבע"
 
 #. achievement refers to Okami
 msgid "Pay homage to a specific Japanese video game."
-msgstr "לחלוק כבוד למשחק יפני מסוים."
+msgstr ".לחלוק כבוד למשחק יפני מסויים"
 
 #. achievement title
 msgid "Inception"
-msgstr "התחלה (inception)"
+msgstr "התחלה"
 
 #. achievement, inception
 msgid "Develop the game within the game."
-msgstr "לפתח את המשחק בתוך משחק."
+msgstr ".לפתח את המשחק בתוך המשחק"
 
 msgid "Fan"
 msgstr "מעריץ"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr "לבחור שם לחברה בהשראת חברה."
+msgstr ".לבחור שם בהשראת חברה אחרת"
 
 #. achievement title
 msgid "Versatile"
-msgstr "רב צדדי"
+msgstr "מגוון"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
