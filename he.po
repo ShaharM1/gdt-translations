@@ -103,7 +103,7 @@ msgstr "גיוון"
 
 #. achievement
 msgid "Have male and female staff."
-msgstr ".תעסיק גם זכר וגם נקבה בצוות שלך"
+msgstr ".תעסיק גם עובד וגם עובדת בצוות שלך"
 
 #. achievement title
 msgid "Famous"
@@ -134,7 +134,7 @@ msgstr "משחק מושלם"
 
 #. achievement
 msgid "Release a game with a clean score of 10."
-msgstr ".תוציא לאור משחק עם ציון 10 בלבד"
+msgstr ".תוציא לאור משחק עם ציון 10"
 
 #. achievement title
 msgid "Detective"
@@ -229,15 +229,15 @@ msgstr "מגוון"
 
 #. achievement
 msgid "Release a successful game in each of the five main genres."
-msgstr "לשחרר משחק מצליח בכל אחד מחמשת הז'אנרים העקריים."
+msgstr ".תוציא לאור משחק מצליח מכל חמשת הז'אנרים הראשיים"
 
 #. achievement title
 msgid "Eat Cake"
-msgstr "לאכול עוגה"
+msgstr "תאכל עוגה"
 
 #. achievement
 msgid "Show them red barrels some action."
-msgstr "תראה לחביות האדומות מה זה."
+msgstr ".תראה לחביות האדומות מה אתה שווה"
 
 #. achievement title
 msgid "Supporter"
@@ -245,19 +245,19 @@ msgstr "תומך"
 
 #. achievement
 msgid "Support a young start-up. Buy the game."
-msgstr "תמוך בסטארט-אפ מתחיל בקניית המשחק."
+msgstr ".תתמוך בסטארט-אפ מתחיל. תקנה את המשחק"
 
 #. achievement
 msgid "Support Greenheart Games by buying an optional supporter pack."
-msgstr "לתמוך ב-Greenheart Games בקניית \"חבילת תומך\"."
+msgstr ".תתמוך בחברת גרין הארט בזה שתקנה חבילת תמיכה אופציונלית"
 
 #. achievement title
 msgid "Admirer"
-msgstr "מעריץ"
+msgstr "חובב"
 
 #. achievement, leave 'Megaflop Productions'
 msgid "Fun fact: We almost named our company Megaflop Productions!"
-msgstr "עובדה משעשעת: כמעט וקראנו לחברה \"Megaflop Productions\"!"
+msgstr "!עובדה משעשעת: כמעט קראנו לחברה שלנו מגה פלופ הפקות"
 
 #. achievement title
 msgid "Writer's Block"
@@ -265,7 +265,7 @@ msgstr "מחסום כתיבה"
 
 #. achievement
 msgid "Naming games is sometimes difficult."
-msgstr "לתת שמות למשחקים זה לפעמים קשה."
+msgstr ".לתת שמות למשחקים לפעמים מאוד קשה"
 
 #. heading
 msgid "Invitation"
@@ -276,7 +276,7 @@ msgid ""
 "Eagerly awaiting your reply.\n"
 "Gordon"
 msgstr ""
-"הי, שמי גורדון הנץ' ואני המארח של מועדון מחשבים מקומי. הרגע גיליתי שהחברה "
+"היי, שמי גורדון הנץ' ואני המארח של מועדון המחשבים מקומי. הרגע גיליתי שהחברה "
 "שלך קרובה אלינו. אני מעריץ נלהב של {0} ואשמח אם תצטרף לפגישה שלנו השבוע!\n"
 "מחכה בקוצר רוח לתגובתך.\n"
 "גורדון"
